@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+a {
+  text-decoration: none;
+}
+
+.Pomodoro-Timer {
+  font-family: 'Poppins', sans-serif;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+.nav-bar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.logo {
+  font-size: 2em;
+  margin: 2rem;
+}
+
+.nav-items {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+.nav-items button {
+  margin-top: 2rem;
+  margin: 2rem 1rem;
+}
+
+.body-timer {
+  text-align: center;
+}
+
+.timer {
+  font-size: 4rem;
+}
+/*# sourceMappingURL=styles.css.map */
